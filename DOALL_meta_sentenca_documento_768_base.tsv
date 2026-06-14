@@ -1,0 +1,61 @@
+Sentença	Id	Index	Granularidade	Documento
+O Brasil venceu o jogo de futebol com grande atuação coletiva.	1	0	0	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+0	1	-1	1	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+A inteligência artificial está transformando o mercado de trabalho.	2	0	0	A inteligência artificial está transformando o mercado de trabalho .
+1	2	-1	1	A inteligência artificial está transformando o mercado de trabalho .
+O governo anunciou novas medidas econômicas para o próximo ano.	3	0	0	O governo anunciou novas medidas econômicas para o próximo ano .
+2	3	-1	1	O governo anunciou novas medidas econômicas para o próximo ano .
+Startups brasileiras estão crescendo no setor de tecnologia.	4	0	0	Startups brasileiras estão crescendo no setor de tecnologia .
+3	4	-1	1	Startups brasileiras estão crescendo no setor de tecnologia .
+O time conquistou o campeonato após uma partida emocionante.	5	0	0	O time conquistou o campeonato após uma partida emocionante .
+4	5	-1	1	O time conquistou o campeonato após uma partida emocionante .
+Pesquisadores desenvolveram um novo modelo de linguagem avançado.	6	0	0	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+5	6	-1	1	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+A cidade de São Paulo enfrenta problemas de mobilidade urbana.	7	0	0	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+6	7	-1	1	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+O aplicativo facilita o agendamento de consultas médicas.	8	0	0	O aplicativo facilita o agendamento de consultas médicas .
+7	8	-1	1	O aplicativo facilita o agendamento de consultas médicas .
+Estudos mostram aumento no uso de energia renovável no país.	9	0	0	Estudos mostram aumento no uso de energia renovável no país .
+8	9	-1	1	Estudos mostram aumento no uso de energia renovável no país .
+A bolsa de valores teve alta significativa nesta semana.	10	0	0	A bolsa de valores teve alta significativa nesta semana .
+9	10	-1	1	A bolsa de valores teve alta significativa nesta semana .
+O presidente discursou sobre educação e inovação tecnológica.	11	0	0	O presidente discursou sobre educação e inovação tecnológica .
+10	11	-1	1	O presidente discursou sobre educação e inovação tecnológica .
+Novos avanços em IA estão mudando a indústria global.	12	0	0	Novos avanços em IA estão mudando a indústria global .
+11	12	-1	1	Novos avanços em IA estão mudando a indústria global .
+A vacinação contribuiu para a redução de doenças no Brasil.	13	0	0	A vacinação contribuiu para a redução de doenças no Brasil .
+12	13	-1	1	A vacinação contribuiu para a redução de doenças no Brasil .
+O filme brasileiro ganhou prêmio internacional importante.	14	0	0	O filme brasileiro ganhou prêmio internacional importante .
+13	14	-1	1	O filme brasileiro ganhou prêmio internacional importante .
+A economia mundial passa por período de instabilidade.	15	0	0	A economia mundial passa por período de instabilidade .
+14	15	-1	1	A economia mundial passa por período de instabilidade .
+Jogadores de futebol foram convocados para a seleção nacional.	16	0	0	Jogadores de futebol foram convocados para a seleção nacional .
+15	16	-1	1	Jogadores de futebol foram convocados para a seleção nacional .
+O sistema de transporte público será modernizado.	17	0	0	O sistema de transporte público será modernizado .
+16	17	-1	1	O sistema de transporte público será modernizado .
+Uma nova lei de proteção de dados entrou em vigor.	18	0	0	Uma nova lei de proteção de dados entrou em vigor .
+17	18	-1	1	Uma nova lei de proteção de dados entrou em vigor .
+Universidades investem em pesquisa e desenvolvimento científico.	19	0	0	Universidades investem em pesquisa e desenvolvimento científico .
+18	19	-1	1	Universidades investem em pesquisa e desenvolvimento científico .
+O comércio eletrônico cresceu durante o último ano.	20	0	0	O comércio eletrônico cresceu durante o último ano .
+19	20	-1	1	O comércio eletrônico cresceu durante o último ano .
+Turistas visitaram praias famosas do litoral catarinense.	21	0	0	Turistas visitaram praias famosas do litoral catarinense .
+20	21	-1	1	Turistas visitaram praias famosas do litoral catarinense .
+O evento de tecnologia reuniu especialistas do mundo inteiro.	22	0	0	O evento de tecnologia reuniu especialistas do mundo inteiro .
+21	22	-1	1	O evento de tecnologia reuniu especialistas do mundo inteiro .
+Aplicações de machine learning estão cada vez mais comuns.	23	0	0	Aplicações de machine learning estão cada vez mais comuns .
+22	23	-1	1	Aplicações de machine learning estão cada vez mais comuns .
+O clima mudou drasticamente em diversas regiões do país.	24	0	0	O clima mudou drasticamente em diversas regiões do país .
+23	24	-1	1	O clima mudou drasticamente em diversas regiões do país .
+Empresas adotam soluções digitais para aumentar produtividade.	25	0	0	Empresas adotam soluções digitais para aumentar produtividade .
+24	25	-1	1	Empresas adotam soluções digitais para aumentar produtividade .
+A ciência de dados é essencial para análise de informações.	26	0	0	A ciência de dados é essencial para análise de informações .
+25	26	-1	1	A ciência de dados é essencial para análise de informações .
+O hospital inaugurou uma nova unidade de atendimento.	27	0	0	O hospital inaugurou uma nova unidade de atendimento .
+26	27	-1	1	O hospital inaugurou uma nova unidade de atendimento .
+O agronegócio brasileiro bateu recordes de exportação.	28	0	0	O agronegócio brasileiro bateu recordes de exportação .
+27	28	-1	1	O agronegócio brasileiro bateu recordes de exportação .
+Redes neurais são usadas em sistemas de reconhecimento de imagem.	29	0	0	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+28	29	-1	1	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+O futebol brasileiro possui grande destaque internacional.	30	0	0	O futebol brasileiro possui grande destaque internacional .
+29	30	-1	1	O futebol brasileiro possui grande destaque internacional .
